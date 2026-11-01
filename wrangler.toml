@@ -1,0 +1,8 @@
+name = "presensitasiba"
+main = "server.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "presensitasiba-db"
+database_id = "ef89f6be-9eba-4745-aae9-edf24e8af595"
